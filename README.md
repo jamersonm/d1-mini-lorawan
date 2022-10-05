@@ -13,7 +13,7 @@ Wesmos D1 Mini Pro + RFM95w LoRaWAN
   2.1 [End devices key configuration](#end-devices-key-configuration)  
   2.2 [LMIC library](#lmic-library)  
   2.3 [Pinmap](#pinmap)
-3. [TTN Configurations](#ttn-configuration)   
+3. [TTN Configurations](#ttn-configurations)   
 4. [Other issues](#other-issues)  
 5. [Credits](#credits)  
 
@@ -21,12 +21,12 @@ Wesmos D1 Mini Pro + RFM95w LoRaWAN
 #### Wesmos D1 mini
 The borad used was Wesmos D1 mini.  
 ![Wesmos D1 mini](https://www.wemos.cc/en/latest/_images/d1_mini_v4.0.0_5_16x9.png)  
-To program by Arduino IDE is necessary add the address http://arduino.esp8266.com/stable/package_esp8266com_index.json on **File > Preferences > Additional Boards Manager URL**
-![Arduino preferences](https://user-images.githubusercontent.com/276504/50922035-c31aea80-1449-11e9-862e-57945f6f8b6a.png)
+To program by Arduino IDE is necessary add the address http://arduino.esp8266.com/stable/package_esp8266com_index.json on **File > Preferences > Additional Boards Manager URL**  
+![Arduino preferences](https://user-images.githubusercontent.com/276504/50922035-c31aea80-1449-11e9-862e-57945f6f8b6a.png)  
 
 #### RFM95w
 RFM95w is a LoRa Module.  
-![RFM95w](https://5.imimg.com/data5/SELLER/Default/2022/1/NN/XT/WO/1833510/tap-sensor-module-for-arduino-500x500.JPG)  
+![RFM95w](https://5.imimg.com/data5/SELLER/Default/2022/1/NN/XT/WO/1833510/tap-sensor-module-for-arduino-500x500.JPG)    
 Its pinmap depends of connections with a microcontroller.
 
 #### Schematic
